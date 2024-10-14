@@ -11,4 +11,5 @@ body {
     background: url(../image/background-blackboard-mobile.png) no-repeat;
     background-size: cover;
     height: 100vh;
+    overflow: hidden;
 }
