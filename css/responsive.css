@@ -1,0 +1,17 @@
+@media(max-height: 670px) {
+    .main p {
+        color: #ffffff;
+        text-align: center;
+        margin: 0 30px;
+    }
+
+    .main .box-gift {
+        max-width: 40%;
+    }
+}
+
+@media(max-width: 375px){
+    .main p {
+        margin: 0 30px 10px;
+    }
+}
